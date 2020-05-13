@@ -26,6 +26,8 @@ int main()
 
     sr_ar = sum / col;
     cout << " Среднее арифметическое введенных чисел = " << sr_ar << endl;
+
+    cin;
     
     return 0;
 
