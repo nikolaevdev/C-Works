@@ -1,0 +1,5 @@
+﻿  Example_3.cpp
+H:\Проекты\Dev\C++\C-Works\9\Example_3\Example_3\Example_3.cpp(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+H:\Проекты\Dev\C++\C-Works\9\Example_3\Example_3\Example_3.cpp(5,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+H:\Проекты\Dev\C++\C-Works\9\Example_3\Example_3\Example_3.cpp(6,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  Example_3.vcxproj -> H:\Проекты\Dev\C++\C-Works\9\Example_3\Debug\Example_3.exe
